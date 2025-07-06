@@ -12,6 +12,7 @@ Then set `db=True` (Line 23) in the main.py.
 <br>
 You can see the chat history of each customer in the dashboard of vercel postgres database.
 <br>
+<br>
 If you have an issue or doubt, feel free to contact me on LinkedIn (link in profile) or whatsapp: +918848278440
 
 ## Sample Images
