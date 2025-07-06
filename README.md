@@ -1,3 +1,5 @@
+Edit the instructions in the 'training' folder to customise bot with your own products and instructions.
+
 <img src="https://files.catbox.moe/yit4gh.jpeg" height="550px" width="260">
 <img src="https://files.catbox.moe/ktq8bx.jpeg" height="550px" width="260">
 <img src="https://files.catbox.moe/9zglbi.jpeg" height="550px" width="260">
