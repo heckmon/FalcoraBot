@@ -19,6 +19,7 @@ logging.basicConfig(level=logging.INFO)
 #Set this 'True' if you want to get the chat history as a database of {phone no: chats} format.
 #But you need to set up vercel postgres database and set the 'DB_URL' environment variable with the database url.
 #Otherwise the bot will crash.
+#If you need help setting up vercel postgres database, contact me on LinkedIn (link in profile).
 db=False
 wa_token=os.environ.get("WA_TOKEN") # Whatsapp API Key
 gen_api=os.environ.get("GEN_API") # Gemini API Key
