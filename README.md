@@ -11,6 +11,7 @@ If you want to store the chat history, setup the postgres database provided by v
 Then set `db=True` (Line 23) in the main.py.
 You can see the chat history of each customer in the dashboard of vercel postgres database.
 
+## Sample Images
 <img src="https://files.catbox.moe/yit4gh.jpeg" height="550px" width="260">
 <img src="https://files.catbox.moe/ktq8bx.jpeg" height="550px" width="260">
 <img src="https://files.catbox.moe/9zglbi.jpeg" height="550px" width="260">
