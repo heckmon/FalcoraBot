@@ -1,4 +1,4 @@
-#### Edit the contents in the `training` folder to customise bot with your own products and instructions.
+#### Customize your bot by editing the contents of the `training` folder with your own products and instructions.
 
 <img src="https://files.catbox.moe/yit4gh.jpeg" height="550px" width="260">
 <img src="https://files.catbox.moe/ktq8bx.jpeg" height="550px" width="260">
