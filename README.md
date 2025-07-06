@@ -10,6 +10,7 @@ To set up the bot, Watch this video:
 If you want to store the chat history, setup the postgres database provided by vercel and set the DB_URL environment variable as the database url,
 Then set `db=True` (Line 23) in the main.py.
 You can see the chat history of each customer in the dashboard of vercel postgres database.
+If you have an issue or doubt, feel free to contact me on LinkedIn (link in profile) or whatsapp: +918848278440
 
 ## Sample Images
 <img src="https://files.catbox.moe/yit4gh.jpeg" height="550px" width="260">
