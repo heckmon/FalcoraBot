@@ -16,7 +16,7 @@ from sqlalchemy.orm import sessionmaker
 
 logging.basicConfig(level=logging.INFO)
 
-#Set this true if you want to get the chat history as a database as {phone no: chats} format.
+#Set this 'True' if you want to get the chat history as a database of {phone no: chats} format.
 #But you need to set up vercel postgres database and set the 'DB_URL' environment variable with the database url.
 #Otherwise the bot will crash.
 db=False
